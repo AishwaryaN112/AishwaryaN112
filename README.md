@@ -1,6 +1,21 @@
 # 💫 About Me:
 <br>🎓 Pursuing B.E. in Information Science & Engineering , Exploring the world of technology every day<br><br>🌱 Currently learning Web Development, Data Structures, DBMS & diving into Machine Learning<br><br>💼 Looking for internship opportunities & open to collaborating on exciting real-world projects<br><br>⚡ Fun fact: I believe every big project starts with a single line of code — so I just keep writing!
+## 💻 Tech Stack
 
+### Languages
+Java | Python | C
+
+### Core Computer Science
+Data Structures & Algorithms | OOP | DBMS | SQL
+
+### Web Development
+HTML | CSS | JavaScript
+
+### Tools
+Git | GitHub | VS Code
+
+### Cybersecurity
+Cybersecurity Fundamentals
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aishwarya N) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aishwaryan2kgmail.com) 
